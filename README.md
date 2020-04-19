@@ -1,9 +1,9 @@
 # internal_application_study_reports
 普段使っているWebアプリケーションの裏側で何をやっているか勉強する記録を残すリポジトリ
 
-https://github.com/setsumaru1992/todo_list_with_modern_environment
-↑がアプリケーションのビジネス面をやっているように、裏側についても学びたい
+以下がアプリケーションのビジネス面をやっているように、裏側についても学びたい。  
 ただし優先度は上記リポジトリの方がこのリポジトリよりも上
+https://github.com/setsumaru1992/todo_list_with_modern_environment
 
 上記リポジトリと違ってコードに残すの面倒な可能性もあるから、何を元に調査したかなど、考えのログを残すことがメイン。
 
@@ -40,7 +40,7 @@ https://github.com/setsumaru1992/todo_list_with_modern_environment
     - DBや検索エンジンの内部実装を読む
       - [ ] MySQL
       - [ ] Elasticsearch
-    - DBを作ってみる
+    - [ ] DBを作ってみる
 - ReactとReduxの裏側で何やってるか見たい 
   - できるようになることで実現できること
     - 抱えている問題
