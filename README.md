@@ -74,6 +74,6 @@ https://github.com/setsumaru1992/todo_list_with_modern_environment
     - 実現できること
       - jsを読むときに曖昧に捉えなくなる
   - 具体的に何をしたいのか
-    - 条件式について知りたい
+    - [x] 条件式について知りたい
       - `if(obj)`が何を判断していて何が返り、ifは何をもってtrueと判断するか
       - `num && list[num]`とかよく見るけど、それぞれのパターンで何が返るのかnumがnullだったら何が返るのか
