@@ -77,5 +77,6 @@ https://github.com/setsumaru1992/todo_list_with_modern_environment
     - [x] 条件式について知りたい
       - `if(obj)`が何を判断していて何が返り、ifは何をもってtrueと判断するか
       - `num && list[num]`とかよく見るけど、それぞれのパターンで何が返るのかnumがnullだったら何が返るのか
-    - [ ] {obj}の記法
+    - [x] {obj}の記法
       - 予想だと変数名をキーにその値を入れているって感じだろうけどそれが正しいのかどうか
+      - コーディング規約を読むことで知ろう（またはES2015資料）
