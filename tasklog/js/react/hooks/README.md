@@ -1,0 +1,12 @@
+- 初学者向きドキュメント
+  - リンク
+    - [なんかいい感じのまとめ](https://sbfl.net/blog/2019/11/12/react-hooks-introduction/)
+    - [qiita](https://qiita.com/uhyo/items/246fb1f30acfeb7699da)
+  - 見た感じ、React.Componentみたいなかっこいい継承クラスじゃなくても関数コンポーネントでパワフルな機能をつかうためのものっぽい
+- hooksについて([こちら](https://sbfl.net/blog/2019/11/12/react-hooks-introduction/)より)
+  - hooksの原義
+    - Reactと関数コンポーネントを接続（Hooks into）する
+  - 解決した問題
+    - 実は、クラスコンポーネントはいくつかの問題を抱えていました。最も大きな問題は処理が散らばりやすいことです。クラスコンポーネントでは様々なメソッドを実装することでReactのシステム上に乗ることができました。それはつまりひとつのコンポーネントのひとつの機能が、様々なメソッドの中に散り散りになることを意味しています。そうするとどこに何があるのかわからなくなり、コードをいじるのが難しくなっていきます。バグの元にもなります。
+  - [hooksがどうやってReactComponentと結合しているか](https://sbfl.net/blog/2019/02/09/react-hooks-usestate/)
+- [公式ドキュメント](https://ja.reactjs.org/docs/hooks-rules.html)

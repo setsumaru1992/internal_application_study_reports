@@ -62,14 +62,6 @@ https://github.com/setsumaru1992/todo_list_with_modern_environment
       - TODO
         - [x] Redux
         - [x] React
-- [ ] Node.jsの基本知識をコードを書いて知っておきたい
-  - できるようになることで実現できること
-    - 抱えている問題
-      - nodeのライブラリをnodeの基礎知識もなく使ってるから理解がふわふわしている
-    - 実現できること
-      - nodeのライブラリを使うときに裏が透けて見えるような理解をしたい。gem作ったときみたいに
-  - 具体的に何をしたいのか
-    - HelloWorldのライブラリを作ってみる
 - [x] Javascriptの知識をアップデートしたい
   - できるようになることで実現できること
     - 抱えている問題
@@ -80,7 +72,7 @@ https://github.com/setsumaru1992/todo_list_with_modern_environment
     - [x] 条件式について知りたい
       - `if(obj)`が何を判断していて何が返り、ifは何をもってtrueと判断するか
       - `num && list[num]`とかよく見るけど、それぞれのパターンで何が返るのかnumがnullだったら何が返るのか
-    - [x] {obj}の記法
+    - [x] `{obj}`(obj = {hoge: 1})の記法
       - 予想だと変数名をキーにその値を入れているって感じだろうけどそれが正しいのかどうか
       - コーディング規約を読むことで知ろう（またはES2015資料）
 
