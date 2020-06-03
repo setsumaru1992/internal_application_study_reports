@@ -149,6 +149,19 @@ function processInput(input) {
 const { left, top } = processInput(input);
 ```
 
+- https://qiita.com/morrr/items/883cb902ccda37e840bc#%E5%88%86%E5%89%B2%E4%BB%A3%E5%85%A5
+
+オブフェクトのフィールドの値を任意の変数名で受けられる
+
+> 英語ではDestructuring(非構造化)とのこと。
+> 配列やオブジェクトの内容を、複数の変数に(分割して)代入する。
+
+```js
+const {FOO: hoge, BAR: piyo} = {'FOO' : 'foo', 'BAR' : 'bar' }
+console.log(hoge)
+console.log(piyo)
+```
+
 # Strings
 - [6.1](#strings--quotes) Use single quotes `''` for strings. eslint: [`quotes`](https://eslint.org/docs/rules/quotes.html)
 
